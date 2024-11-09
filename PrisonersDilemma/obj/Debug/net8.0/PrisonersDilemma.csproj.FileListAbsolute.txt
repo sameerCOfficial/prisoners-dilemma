@@ -1,0 +1,14 @@
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/bin/Debug/net8.0/PrisonersDilemma
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/bin/Debug/net8.0/PrisonersDilemma.deps.json
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/bin/Debug/net8.0/PrisonersDilemma.runtimeconfig.json
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/bin/Debug/net8.0/PrisonersDilemma.dll
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/bin/Debug/net8.0/PrisonersDilemma.pdb
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/obj/Debug/net8.0/PrisonersDilemma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/obj/Debug/net8.0/PrisonersDilemma.AssemblyInfoInputs.cache
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/obj/Debug/net8.0/PrisonersDilemma.AssemblyInfo.cs
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/obj/Debug/net8.0/PrisonersDilemma.csproj.CoreCompileInputs.cache
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/obj/Debug/net8.0/PrisonersDilemma.dll
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/obj/Debug/net8.0/refint/PrisonersDilemma.dll
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/obj/Debug/net8.0/PrisonersDilemma.pdb
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/obj/Debug/net8.0/PrisonersDilemma.genruntimeconfig.cache
+/Users/sameerchawla/GitHub Projects/prisoners-dilemma/PrisonersDilemma/obj/Debug/net8.0/ref/PrisonersDilemma.dll
